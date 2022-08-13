@@ -7,7 +7,7 @@ Este projeto faz parte do módulo 4 do curso de ReactJS do Scrimba
 Tenzies se trata de um jogo infantil no qual o objetivo é juntar os dados todos com os mesmos valores.
 Neste projeto foram usados vários conceitos aprendidos durante o curso, dentre eles: `useState`, `useEffect` e `props`.
 
-## Tecnologias usadas
+### Tecnologias usadas
 
 <div>
 <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
